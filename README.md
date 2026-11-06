@@ -12,11 +12,11 @@ Je recherche un **stage PFE** en sécurité offensive, SOC ou DevSecOps.
 ## Projets
 | Projet | Sujet | Outils |
 |---|---|---|
-| [PatchMind](https://github.com/chaimaromdhani/patchmind) (en binôme) | Plateforme DevSecOps : scan, correctifs générés par LLM (RAG), validation automatique | Semgrep, GitLeaks, ZAP, FAISS, Flask |
-| [DFIR : compromission par phishing](https://github.com/chaimaromdhani/dfir-phishing-investigation) | Attaque simulée, détection, analyse mémoire, règle YARA, MITRE ATT&CK | Wazuh, Suricata, Volatility 3, YARA |
-| [Analyse du malware Remcos RAT](https://github.com/chaimaromdhani/remcos-rat-malware-analysis) | Analyse automatique, statique et dynamique, extraction d'IOC | CAPE Sandbox, Cutter, VirusTotal |
+| [PatchMind](https://github.com/chaimaromdhani/devsecops-project) (en binôme) | Plateforme DevSecOps : scan, correctifs générés par LLM (RAG), validation automatique | Semgrep, GitLeaks, ZAP, FAISS, Flask |
+| [DFIR : compromission par phishing](https://github.com/chaimaromdhani/digital-forensics-lab) | Attaque simulée, détection, analyse mémoire, règle YARA, MITRE ATT&CK | Wazuh, Suricata, Volatility 3, YARA |
+| [Analyse du malware Remcos RAT](https://github.com/chaimaromdhani/malware-analysis-remcos) | Analyse automatique, statique et dynamique, extraction d'IOC | CAPE Sandbox, Cutter, VirusTotal |
 | [Audit Active Directory](https://github.com/chaimaromdhani/active-directory-red-team) | Red team sur un lab GOAD | BloodHound, Kerberos |
-| [Pentest OWASP Juice Shop](https://github.com/chaimaromdhani/owasp-juice-shop-pentest) | SQLi, XSS, IDOR, JWT falsifié, fichiers exposés | Burp Suite, Nmap, Gobuster |
+| [Pentest OWASP Juice Shop](https://github.com/chaimaromdhani/owasp_juice_shop) | SQLi, XSS, IDOR, JWT falsifié, fichiers exposés | Burp Suite, Nmap, Gobuster |
 | [Ethereum Gas DoS](https://github.com/chaimaromdhani/Ethereum_Gas_DoS) | Détection et mitigation d'une attaque DoS par gas dans un smart contract | Solidity, Hardhat, Slither |
 
 ## Compétences
