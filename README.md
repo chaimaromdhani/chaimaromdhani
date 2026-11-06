@@ -5,21 +5,22 @@ Je recherche un **stage PFE** en sécurité offensive, SOC ou DevSecOps.
 
 ## Sur quoi je travaille
 - Test d'intrusion web et audit Active Directory
-- Analyse de malwares et forensic numérique
+- Analyse de malwares, forensic et réponse à incident (DFIR)
 - DevSecOps : CI/CD, Docker, Kubernetes, sécurité des LLM
+- Sécurité des smart contracts Ethereum
 
 ## Projets
 | Projet | Sujet | Outils |
 |---|---|---|
-| Analyse de malware (Remcos RAT) | Analyse statique et dynamique, MITRE ATT&CK | PEstudio, CAPE Sandbox |
-| Forensic numérique | Réseau, RAM, disque, signatures | Volatility 3, Autopsy, Wireshark, YARA |
-| Audit Active Directory | Red team sur un lab GOAD | BloodHound, Kerberos |
-| Pentest OWASP Top 10 | Juice Shop et DVWA | Burp Suite |
-| DevSecOps, portail de notes | CI/CD bloquant, Kubernetes, DAST, pare-feu LLM | Docker, Kubernetes |
-| SOC intelligent | Détection et Machine Learning | pfSense, Wazuh, Suricata |
+| [PatchMind](https://github.com/chaimaromdhani/patchmind) (en binôme) | Plateforme DevSecOps : scan, correctifs générés par LLM (RAG), validation automatique | Semgrep, GitLeaks, ZAP, FAISS, Flask |
+| [DFIR : compromission par phishing](https://github.com/chaimaromdhani/dfir-phishing-investigation) | Attaque simulée, détection, analyse mémoire, règle YARA, MITRE ATT&CK | Wazuh, Suricata, Volatility 3, YARA |
+| [Analyse du malware Remcos RAT](https://github.com/chaimaromdhani/remcos-rat-malware-analysis) | Analyse automatique, statique et dynamique, extraction d'IOC | CAPE Sandbox, Cutter, VirusTotal |
+| [Audit Active Directory](https://github.com/chaimaromdhani/active-directory-red-team) | Red team sur un lab GOAD | BloodHound, Kerberos |
+| [Pentest OWASP Juice Shop](https://github.com/chaimaromdhani/owasp-juice-shop-pentest) | SQLi, XSS, IDOR, JWT falsifié, fichiers exposés | Burp Suite, Nmap, Gobuster |
+| [Ethereum Gas DoS](https://github.com/chaimaromdhani/Ethereum_Gas_DoS) | Détection et mitigation d'une attaque DoS par gas dans un smart contract | Solidity, Hardhat, Slither |
 
 ## Compétences
-`Metasploit` `Burp Suite` `Nmap` `Wireshark` `Wazuh` `Suricata` `Ghidra` `Volatility` `Docker` `Kubernetes` `Python` `Bash` `Linux`
+`Metasploit` `Burp Suite` `Nmap` `Wireshark` `Wazuh` `Suricata` `Volatility` `YARA` `Solidity` `Docker` `Kubernetes` `Python` `Bash` `Linux`
 
 ## Me contacter
 - 📧 chaimaromdhani710@gmail.com
