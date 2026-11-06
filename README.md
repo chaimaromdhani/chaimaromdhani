@@ -4,9 +4,9 @@
 Je recherche un **stage PFE** en sécurité offensive, SOC ou DevSecOps.
 
 ## Sur quoi je travaille
-- Test d'intrusion web et audit Active Directory
 - Analyse de malwares, forensic et réponse à incident (DFIR)
 - DevSecOps : CI/CD, Docker, Kubernetes, sécurité des LLM
+- Test d'intrusion web et audit Active Directory
 - Sécurité des smart contracts Ethereum
 
 ## Projets
